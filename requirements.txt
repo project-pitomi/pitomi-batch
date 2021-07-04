@@ -1,0 +1,5 @@
+aiohttp==3.7.4.post0
+pymongo==3.11.4
+beautifulsoup4==4.9.3
+azure-storage-blob==12.8.1
+Wand==0.6.6

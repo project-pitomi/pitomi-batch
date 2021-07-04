@@ -1,0 +1,13 @@
+# k8s
+k8s
+
+# MacOS
+.DS_Store*
+Icon?
+._*
+
+# VScode
+.vscode
+
+venv
+__pycache__
