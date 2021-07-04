@@ -1,5 +1,5 @@
 # pitomi-batch
-
+Check https://github.com/project-pitomi/pitomi for project pitomi
 #### Sample k8s manifests
 
 ##### secret.yaml
